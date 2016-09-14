@@ -1,0 +1,19 @@
+.message {
+  font-size: 1.3em; font-weight: bold;
+}
+
+input.green {
+  border: 1px solid limegreen;
+}
+
+.message.green {
+  color: limegreen;
+}
+
+input.red {
+  border: 1px solid red;
+}
+
+.message.red {
+  color: red;
+}
