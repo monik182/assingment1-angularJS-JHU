@@ -4,6 +4,7 @@
 
 input.green {
   border: 1px solid limegreen;
+  box-shadow: 0 0 4px limegreen;
 }
 
 .message.green {
@@ -12,6 +13,7 @@ input.green {
 
 input.red {
   border: 1px solid red;
+  box-shadow: 0 0 4px red;
 }
 
 .message.red {
